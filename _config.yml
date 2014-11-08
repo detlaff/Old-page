@@ -1,0 +1,13 @@
+name: Kuba Łojewski
+description: International affairs expert. Ladies' man, ardent technology wizard, connoisseur
+meta_description: "International affairs expert. Ladies' man, ardent technology wizard, connoisseur"
+url: http://trytotrust.me
+
+author: Kuba Łojewski
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 5
+baseurl: /
+domain_name: 'http://trytotrust.me'
+permalink: /:title

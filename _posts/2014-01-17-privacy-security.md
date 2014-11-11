@@ -2,7 +2,7 @@
 layout: post
 title: Privacy and Security
 date: 2014-01-17 18:13
-summary: I believe everyone who is even remotely interested in world events is familiar with the name Edward Snowden. The former NSA contractor proved what many people, including me, already knew, but that's beside the point. What's important is that your data is not your own anymore on The Internet, given that you use mainstream software and web applications — still, this is not the worst problem. The biggest issue is that the majority of people don't give a shit about their own privacy.
+excerpt: I believe everyone who is even remotely interested in world events is familiar with the name Edward Snowden. The former NSA contractor proved what many people, including me, already knew, but that's beside the point. What's important is that your data is not your own anymore on The Internet, given that you use mainstream software and web applications — still, this is not the worst problem. The biggest issue is that the majority of people don't give a shit about their own privacy.
 categories: Technology
 ---
 

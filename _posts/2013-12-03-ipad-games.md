@@ -2,7 +2,7 @@
 layout: post
 title: iPad Games — What Works & What Doesn’t
 date: 2013-12-03 12:21
-summary: I have always loved gaming, be it on a PC, Playstation, or more recently on the iPad. While I prefer (and always will, unless magic happens) PC, there are a lot of creative, really nice games designed with a touch screen in mind that you cannot—even if you try—play properly using keyboard and mouse.
+excerpt: I have always loved gaming, be it on a PC, Playstation, or more recently on the iPad. While I prefer (and always will, unless magic happens) PC, there are a lot of creative, really nice games designed with a touch screen in mind that you cannot—even if you try—play properly using keyboard and mouse.
 categories: Technology
 ---
 

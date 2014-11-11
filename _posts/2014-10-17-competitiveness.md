@@ -2,7 +2,7 @@
 layout: post
 title: Competitiveness
 date: 2014-10-17 16:34
-summary: Games involving other people change us, the way we think and perceive the world. This comes true especially for titles requiring cooperation versus another group, where blame — a very toxic thing — becomes a standard.
+excerpt: Games involving other people change us, the way we think and perceive the world. This comes true especially for titles requiring cooperation versus another group, where blame — a very toxic thing — becomes a standard.
 categories: Technology
 ---
 

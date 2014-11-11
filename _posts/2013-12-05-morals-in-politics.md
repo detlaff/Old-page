@@ -2,7 +2,7 @@
 layout: post
 title: Morals in Politics and Foreign Relations
 date: 2013-12-05 17:28
-summary: In politics and international relations the term "morality" appears very often - during many debates, implementing new laws or analysing the newest events. However, given that morality is an important and integral part of anyone's life, can one apply its code the same way while governing a country (ie. being the decision maker) or as part of some important international organization (UN, for example)?
+excerpt: In politics and international relations the term "morality" appears very often - during many debates, implementing new laws or analysing the newest events. However, given that morality is an important and integral part of anyone's life, can one apply its code the same way while governing a country (ie. being the decision maker) or as part of some important international organization (UN, for example)?
 categories: Politics
 ---
 

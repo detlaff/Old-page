@@ -2,7 +2,7 @@
 layout: post
 title: Why Fonts Are Important
 date: 2014-01-29 16:15
-summary: I am obsessed with typography. We see various fonts everyday in our lives and I'd think most of us are very pragmatic when it comes to them. We see a text, be it in a book, advertisement, on a computer or a beer bottle. These words mean something, but they want to tell you the same whether it's Arial, Helvetica or Times New Roman. So why do we use different fonts, why not stick with one and employ it as a workhorse in every single situation?
+excerpt: I am obsessed with typography. We see various fonts everyday in our lives and I'd think most of us are very pragmatic when it comes to them. We see a text, be it in a book, advertisement, on a computer or a beer bottle. These words mean something, but they want to tell you the same whether it's Arial, Helvetica or Times New Roman. So why do we use different fonts, why not stick with one and employ it as a workhorse in every single situation?
 categories: Typography
 ---
 

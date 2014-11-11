@@ -2,7 +2,7 @@
 layout: post
 title: Four Horsemen
 date: 2014-11-11 16:34
-summary: The modern day Four Horsemen - a rapacious financial system, escalating organised violence, abject poverty for billions and the exhaustion of the Earth's resources.
+excerpt: The modern day Four Horsemen - a rapacious financial system, escalating organised violence, abject poverty for billions and the exhaustion of the Earth's resources.
 categories: Politics
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Why isn’t Ubuntu ready for me (yet)
 date: 2013-11-28 16:34
-summary: I absolutely love Ubuntu and pretty much every other GNU/Linux distribution out there. I have used anything from Arch to Mint and it’s safe to say that I’m no newbie.
+excerpt: I absolutely love Ubuntu and pretty much every other GNU/Linux distribution out there. I have used anything from Arch to Mint and it’s safe to say that I’m no newbie.
 categories: Technology
 ---
 

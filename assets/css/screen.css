@@ -1198,14 +1198,6 @@ body:not(.post-template) .post-title {
     font-size: 1.1rem;
 }
 
-.fb-comments,
-.fb-comments iframe[style],
-.fb-comments span,
-.fb-comments iframe span[style] {
-    width: 100% !important;
-}
-
-
 /* ==========================================================================
    8. Pagination - Tools to let you flick between pages
    ========================================================================== */

@@ -8,7 +8,7 @@ categories: Life
 
 Obligatory Christmas song. I am sincerely sorry.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:5KdPyhcsQ5PvkvPBq6lLti" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:0bYg9bo50gSsH3LtXe2SQn" width="450" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 Today I am going to talk to you about something I recently wrote about, but in a different context. In this post, the aim is to focus solely on one thing that makes life so much easier - the courage of speaking up. Now, at this point in my life, I sincerely think that shyness is a serious issue hampering one's development as a human being. As a teenager I used to be very shy, even took pride in being anti-social to some extent, but this was simply bullshit. Again, humans are social animals and only by interacting with others, one is able to discover him/herself truly.
 

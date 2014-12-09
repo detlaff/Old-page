@@ -6,10 +6,6 @@ excerpt: Sometimes the only way to gain your superior's respect is to defy him. 
 categories: Life
 ---
 
-Obligatory Christmas song. I am sincerely sorry.
-
-<iframe src="https://embed.spotify.com/?uri=spotify:track:0bYg9bo50gSsH3LtXe2SQn" width="450" height="80" frameborder="0" allowtransparency="true"></iframe>
-
 Today I am going to talk to you about something I recently wrote about, but in a different context. In this post, the aim is to focus solely on one thing that makes life so much easier - the courage of speaking up. Now, at this point in my life, I sincerely think that shyness is a serious issue hampering one's development as a human being. As a teenager I used to be very shy, even took pride in being anti-social to some extent, but this was simply bullshit. Again, humans are social animals and only by interacting with others, one is able to discover him/herself truly.
 
 It's not that being alone is wrong, it isn't. I still need my time alone, every single day. Thinking about recent events and trying to figure it all out is a process best done solo - in the end you are the one living your life. You are able to discover some things about yourself (ie. what you like, what would you like, or how to decide on something) very quickly if you start, literally, talking to yourself. It can be out loud, it can be in your head, but don't be afraid to **ask yourself** some questions, important ones. Nothing wrong with that, you ain't going mad, and it might just help you out on the road ahead.

@@ -1,5 +1,5 @@
 name: Kuba Łojewski
-description: International affairs expert. Renegade economist. Ladies' man, ardent technology wizard, connoisseur
+description: International affairs expert. Renegade economist. Brewer, corporate PM, technology wizard, connoisseur
 meta_description: "International affairs expert. Renegade economist. Ladies' man, ardent technology wizard, connoisseur"
 url: http://trytotrust.me
 
@@ -9,5 +9,5 @@ highlighter: pygments
 logo: false
 paginate: 5
 baseurl: /
-domain_name: 'http://trytotrust.me'
+domain_name: 'http://lojewski.github.io'
 permalink: /:title
